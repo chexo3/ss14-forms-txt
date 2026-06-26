@@ -1,0 +1,28 @@
+# Medical - Cloning Report
+[color=#5b97bc]█▄ █ ▀█▀    [head=3]Nanotrasen Medical Department [/head] [head=1]+[/head]
+█ ▀█     █ [/color] [color=black]      Cloning Report[/color]
+────────────────────────────────────────
+This document certifies the cloning of the following patient.
+
+Patient Name: [color=#002AAF]Sample Person[/color]  
+Patient Species: [color=#002AAF]XXXX[/color]  
+Patient Gender: [color=#002AAF]XXX[/color]  
+Patient Department (if applicable): [color=#002AAF]XXX[/color]  
+
+────  
+Disposition of the Patient upon revival:  [color=#002AAF]XXX[/color]  
+Time of Revival: [color=#002AAF]XXX[/color]  
+Reason for Cloning: [color=#002AAF]XXX[/color]  
+Death Certificate Record Number (if applicable): [color=#002AAF]XXX[/color]  
+
+────  
+Additional Notes:  
+[color=#002AAF]XXX[/color]  
+
+
+
+
+[color=#aaaaaa]Any falsification or misuse of this document, including falsification of cloning procedures, is subject to disciplinary action and potential prosecution as an accessory to permanent homicide, in accordance with NanoTrasen Health Insurance Handbook §12-6.3c.[/color]
+
+                       [head=3] Signature of Attending Physician [/head]  
+─────────────────────────────────────────
